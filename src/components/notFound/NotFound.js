@@ -1,5 +1,11 @@
+import { Link } from "react-router-dom";
+
 const NotFound = () => {
-  return <div>404</div>;
+  return( 
+    <Link to='/'>
+      Start from the main
+    </Link>
+  );
 };
 
 export default NotFound;

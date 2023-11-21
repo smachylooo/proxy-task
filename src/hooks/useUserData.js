@@ -41,7 +41,7 @@ const useUserData = (userId) => {
     };
 
     fetchData();
-  }, [userId]);
+  }, []);
 
   return data;
 };
