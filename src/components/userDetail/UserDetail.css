@@ -1,0 +1,11 @@
+.special-nav{
+    text-decoration: none;
+    padding: 12px;
+    background-color:rgb(175, 117, 229);
+    border-radius: 12px;
+    color: #fff;
+}
+
+.special-nav:not(:last-child){
+    margin-right: 10px;
+}

@@ -1,0 +1,11 @@
+.logo{
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 800;
+    transition: .2s;
+}
+
+.logo:hover{
+    color: rgb(222, 209, 209);
+}
