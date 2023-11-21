@@ -27,5 +27,5 @@
 
 ## Contact Information
 
-[![Follow me on Linkedin](./introduction/icons8-linkedin.svg)](https://www.linkedin.com/in/bohdansmachylo/)
-[![Follow me on Instagram](./introduction/icons8-instagram.svg)](https://www.instagram.com/smachylo/)
+[![Follow me on Linkedin](./README/icons8-linkedin.svg)](https://www.linkedin.com/in/bohdansmachylo/)
+[![Follow me on Instagram](./README/icons8-instagram.svg)](https://www.instagram.com/smachylo/)
